@@ -1,9 +1,5 @@
 import javax.swing.JOptionPane;
 
-
-//CHANGES MADE
-//more
-
 public class problemSet04 {
     public static void main(String[] args) {
 
